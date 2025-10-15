@@ -1,0 +1,11 @@
+
+data:
+  root: data/synth
+  size: 384
+train:
+  epochs: 10
+  batch_size: 8
+  lr: 3e-4
+  num_workers: 4
+model:
+  seg_ch: 6
