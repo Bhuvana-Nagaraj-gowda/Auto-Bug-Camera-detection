@@ -1,5 +1,5 @@
 
-# AutoBugCam - Real-time Camera Artifact Detector (Master Project)
+# AutoBugCam - Real-time Camera Artifact Detector
 
 AutoBugCam is a research-grade tool that localizes common camera pipeline artifacts
 (HDR halos/ghosting, demosaic zippering, moire, rolling-shutter skew, flare/veiling
